@@ -1,0 +1,7 @@
+build/
+.ipynb_checkpoints/
+__pycache__/
+slurm-*.out
+*.cpp
+*.so
+*.nc
